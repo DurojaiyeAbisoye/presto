@@ -26,6 +26,9 @@ setup(
         "h5py==3.8.0",
         "matplotlib==3.6.2",
         "numpy==1.23.5",
+         "pandas==1.3.5",
+        "shapely==1.8.1",
+        "geopandas==0.9.0",
         "torch==2.0",
         "tqdm==4.64.1",
         "webdataset==0.2.31",
@@ -36,6 +39,6 @@ setup(
         "openmapflow[data]==0.2.2",
         "rioxarray==0.13.1",
     ],
-    python_requires=">=3.9",
+    python_requires="==3.9.12",
     include_package_data=True,
 )
