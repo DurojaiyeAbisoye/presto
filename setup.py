@@ -39,6 +39,6 @@ setup(
         "openmapflow[data]==0.2.2",
         "rioxarray==0.13.1",
     ],
-    python_requires="==3.9.12",
+    python_requires=">=3.9",
     include_package_data=True,
 )
