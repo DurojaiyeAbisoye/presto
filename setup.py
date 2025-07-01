@@ -26,7 +26,7 @@ setup(
         "h5py==3.8.0",
         "matplotlib==3.6.2",
         "numpy==1.23.5",
-         "pandas==1.3.5",
+        "pandas==1.3.5",
         "shapely==1.8.1",
         "geopandas==0.9.0",
         "torch==2.0",
